@@ -2,7 +2,7 @@
 A time-lapse utility for Legacy Halo: Reach TU1
 
 # Why does this exist?
-Leading up to the release of Halo Infinite, 343 Industries unveiled the [Multiplayer Overview](https://youtu.be/n-O7OuliQRY?si=qlWMteWaNh04ijBQ&t=403) video. During the armor customization reveal Ryan Paradis mentioned; "The body of customization content that we have on day one ensures that there will be millions of customization combinations for spartans on the battlefield. That includes armor coatings, armor emblems, various armor effects and down to the individual armor pieces." 
+Leading up to the release of Halo Infinite, 343 Industries unveiled the [Multiplayer Overview](https://youtu.be/n-O7OuliQRY?si=qlWMteWaNh04ijBQ&t=403) video. During the armor customization breakdown Ryan Paradis mentioned; "The body of customization content that we have on day one ensures that there will be millions of customization combinations for spartans on the battlefield. That includes armor coatings, armor emblems, various armor effects and down to the individual armor pieces." 
 
 I thought this quote was silly because if you did the math, yeah they're technically right (and I'm too lazy to check how much they actually had at launch), but halo titles that released over a decade prior also had millions of customization combinations, well actually Halo: Reach has a lot more, approximately 3.99 x 10^27 combinations. 
 
