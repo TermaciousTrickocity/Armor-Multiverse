@@ -34,4 +34,4 @@ You're on your own finding these.
 - xdevkit.dll
 
 # Closing
-woah that's a lot harddrive space wasted lol
+20.9tb time-lapse coming soon...
