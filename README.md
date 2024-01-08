@@ -12,7 +12,7 @@ I thought this quote was silly because if you did the math, yeah they're technic
 
 Then I wondered how long would it take to wear every possible armor combination...
 
-## Approaching the heat death of the universe
+### Approaching the heat death of the universe
 - 3.991×10^27 × 0.01 = 0.0131,536,000
 - 3.991×10^27 × 0.0131,536,000 
 - 31,536,0003.991×10^27 × 0.01​
