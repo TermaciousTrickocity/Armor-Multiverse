@@ -4,11 +4,11 @@ A time-lapse utility for Legacy Halo: Reach TU1
 # Why does this exist?
 Leading up to the release of Halo Infinite, 343 Industries unveiled the [Multiplayer Overview](https://youtu.be/n-O7OuliQRY?si=qlWMteWaNh04ijBQ&t=403) video. During the armor customization breakdown Ryan Paradis mentioned; "The body of customization content that we have on day one ensures that there will be millions of customization combinations for spartans on the battlefield. That includes armor coatings, armor emblems, various armor effects and down to the individual armor pieces." 
 
-I thought this quote was silly because if you did the math, yeah they're technically right (and I'm too lazy to check how much they actually had at launch), but halo titles that released over a decade prior also had millions of customization combinations, well actually Halo: Reach has a lot more, approximately 3.99 x 10^27 combinations (3,991,384,982,303,421,081,303,244,800).
+I thought this quote was silly because if you did the math, yeah they're technically right (and I'm too lazy to check how much they actually had at launch), but halo titles that released over a decade prior also had millions of customization combinations, well actually Halo: Reach has a lot more, approximately 3.99x10^27 combinations (3,991,384,982,303,421,081,303,244,800).
 
 > (Three septillion, nine hundred ninety-one sextillion, three hundred eighty-four quintillion, nine hundred eighty-two quadrillion, three hundred three trillion, four hundred twenty-one billion, eighty-one million, three hundred three thousand, two hundred forty-four thousand, eight hundred.)
 
-77 (Helmet) × 21 (Left shoulder) × 21 (Right shoulder) × 23 (Chest) × 6 (Wrist) × 6 (Utility) × 5 (Visor color) × 4 (Knee guards) × 7 (Armor effect) × 13 (Firefight voice) × 36 (Primary color) × 36 (Secondary color) × 36 (Emblem primary color) × 36 (Emblem secondary color) × 36 (Emblem background color) × 117 (Emblem foreground) × 64 (emblem background) × (emblem toggle) 2 = 3.99 x 10^27
+77 (Helmet) × 21 (Left shoulder) × 21 (Right shoulder) × 23 (Chest) × 6 (Wrist) × 6 (Utility) × 5 (Visor color) × 4 (Knee guards) × 7 (Armor effect) × 13 (Firefight voice) × 36 (Primary color) × 36 (Secondary color) × 36 (Emblem primary color) × 36 (Emblem secondary color) × 36 (Emblem background color) × 117 (Emblem foreground) × 64 (emblem background) × (emblem toggle) 2 = 3.99x10^27
 
 Then I wondered how long would it take to wear every possible armor combination...
 
