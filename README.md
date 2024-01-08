@@ -10,9 +10,9 @@ I thought this quote was silly because if you did the math, yeah they're technic
 
 77 (Helmet) × 21 (Left shoulder) × 21 (Right shoulder) × 23 (Chest) × 6 (Wrist) × 6 (Utility) × 5 (Visor color) × 4 (Knee guards) × 7 (Armor effect) × 13 (Firefight voice) × 36 (Primary color) × 36 (Secondary color) × 36 (Emblem primary color) × 36 (Emblem secondary color) × 36 (Emblem background color) × 117 (Emblem foreground) × 64 (emblem background) × (emblem toggle) 2 = 3.99 x 10^27
 
-### Approaching the heat death of the universe
-
 Then I wondered how long would it take to wear every possible armor combination...
+
+## Approaching the heat death of the universe
 - 3.991×10^27 × 0.01 = 0.0131,536,000
 - 3.991×10^27 × 0.0131,536,000 
 - 31,536,0003.991×10^27 × 0.01​
