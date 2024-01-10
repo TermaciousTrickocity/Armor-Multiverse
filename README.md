@@ -21,20 +21,6 @@ So, looping through every combination at a rate of 0.01 seconds per combination 
 
 After reducing the selection to a more reasonable amount by excluding colors, emblems, armor effects, and firefight voices etc. We're left with 267,888,660 possibilities and only 1.033 months of total time spent to swap every combination.
 
-### Storage
-Ideally, I'd record the time-lapse with my standard recording settings (100mb/s @ 30 fps), but I do not have unlimited storage to allocate to this project, and 34tb is a hefty amount to just throw at this.
-
-To reduce the size of the time-lapse, a Twitch stream was a desirable option for two reasons:
-- Small filesize due to the max bitrate being only 8mb/s.
-- I can check the progress/status from anywhere without needing to remote into either of my PCs.
-
-Estimated filesize of the timelapse:
-- 1.033 × 30 × 24 × 60 × 60 ≈ 2,829,120 (Seconds)
-- 8 × 1024 × 2,829,120 (Seconds)
-- 8,192 / 22,632,960​ ≈ 2,763.75gb
-- 2,763.75gb / 1024 ≈ 2.70tb
-> 2.70TB 
-
 # Prerequisites
 You'll need a few things to get this running.
 - [.NET Desktop Runtime 6.0.25](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
@@ -49,4 +35,4 @@ You're on your own finding these.
 - xdevkit.dll
 
 # Closing
-20.9tb time-lapse compressed into a 50mb gif coming soon...
+20.9 TB time-lapse compressed into a 50mb gif coming soon...
