@@ -13,14 +13,11 @@ I thought this quote was silly because if you did the math, yeah they're technic
 Then I wondered how long would it take to wear every possible armor combination...
 
 ### Approaching the heat death of the universe
-- 3.991×10^27 × 0.01 = 0.0131,536,000
-- 3.991×10^27 × 0.0131,536,000 
-- 31,536,0003.991×10^27 × 0.01​
-- Total time in years ≈ 1.262×10^17 years
+- 3.99x10^27 / 0.01 = 3.99x10^29
+- 3.99x10^29 / 31536000 = 1.265x10^22 
+> 12,650,000,000,000,000,000,000 years... 
 
-> 126,200,000,000,000,000 years... 
-
-So, looping through every combination at a rate of 0.01 seconds per combination would take approximately one hundred twenty-six quadrillion two hundred trillion years. That's an incredibly vast amount of time – far longer than the current estimated age of the universe! Since my Xbox 360 probably won't last that long, to cut down on time I'll only loop through visible armor selections available in the main menu.
+So, looping through every combination at a rate of 0.01 seconds per combination would take approximately twelve sextillion six hundred fifty quintillion years. That's an incredibly vast amount of time – far longer than the current estimated age of the universe! Since my Xbox 360 probably won't last that long, to cut down on time I'll only loop through visible armor selections available in the main menu.
 
 After reducing the selection to a more reasonable amount by excluding colors, emblems, armor effects, and firefight voices etc. We're left with 267,888,660 possibilities and only 1.033 months of total time spent to swap every combination.
 
