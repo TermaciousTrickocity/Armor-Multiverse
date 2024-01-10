@@ -13,13 +13,27 @@ I thought this quote was silly because if you did the math, yeah they're technic
 Then I wondered how long would it take to wear every possible armor combination...
 
 ### Approaching the heat death of the universe
-- 3.99x10^27 / 0.01 = 3.99x10^29
-- 3.99x10^29 / 31536000 = 1.265x10^22 
-> 12,650,000,000,000,000,000,000 years... 
+- 3.99x10^27 (Total combonations) / 0.01 (Seconds) = 3.99x10^29
+- 3.99x10^29 (Total combonations) / 31536000 (Seconds in a year) = 1.265x10^22 
+> 12,650,000,000,000,000,000,000 years...
 
 So, looping through every combination at a rate of 0.01 seconds per combination would take approximately twelve sextillion six hundred fifty quintillion years. That's an incredibly vast amount of time – far longer than the current estimated age of the universe! Since my Xbox 360 probably won't last that long, to cut down on time I'll only loop through visible armor selections available in the main menu.
 
 After reducing the selection to a more reasonable amount by excluding colors, emblems, armor effects, and firefight voices etc. We're left with 267,888,660 possibilities and only 1.033 months of total time spent to swap every combination.
+
+### Storage
+Ideally, I'd record the time-lapse with my standard recording settings (100mb/s @ 30 fps), but I do not have unlimited storage to allocate to this project, and 34tb is a hefty amount to just throw at this.
+
+To reduce the size of the time-lapse, a Twitch stream was a desirable option for two reasons:
+- Small filesize due to the max bitrate being only 8mb/s.
+- I can check the progress/status from anywhere without needing to remote into either of my PCs.
+
+Estimated filesize of the timelapse:
+- 1.033 × 30 × 24 × 60 × 60 ≈ 2,829,120 (Seconds)
+- 8 × 1024 × 2,829,120 (Seconds)
+- 8,192 / 22,632,960​ ≈ 2,763.75gb
+- 2,763.75gb / 1024 ≈ 2.70tb
+> 2.70TB 
 
 # Prerequisites
 You'll need a few things to get this running.
