@@ -13,8 +13,8 @@ I thought this quote was silly because if you did the math, yeah they're technic
 Then I wondered how long would it take to wear every possible armor combination...
 
 ### Approaching the heat death of the universe
-- 3.99x10^27 (Total combonations) / 0.01 (Seconds) = 3.99x10^29
-- 3.99x10^29 (Total combonations) / 31536000 (Seconds in a year) = 1.265x10^22 
+- 3.99x10^27 (Total combinations) / 0.01 (Seconds) = 3.99x10^29
+- 3.99x10^29 (Total combinations) / 31536000 (Seconds in a year) = 1.265x10^22 
 > 12,650,000,000,000,000,000,000 years...
 
 So, looping through every combination at a rate of 0.01 seconds per combination would take approximately twelve sextillion six hundred fifty quintillion years. That's an incredibly vast amount of time – far longer than the current estimated age of the universe! Since my Xbox 360 probably won't last that long, to cut down on time I'll only loop through visible armor selections available in the main menu.
