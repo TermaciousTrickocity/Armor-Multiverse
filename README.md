@@ -27,12 +27,12 @@ You'll need a few things to get this running.
 - [.NET SDK 6.0.417](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 You're on your own finding these.
-- A Jtag/RGH/XDK
+- A Jtag/RGH (Modded Xbox 360)
 - JRPC.xex plugin
-- xbdm.xex plugin
-- Halo: Reach TU1
 - JRPC.dll
+- xbdm.xex plugin
 - xdevkit.dll
+- Halo: Reach running Title Update 1
 
 # Closing
 20.9 TB time-lapse compressed into a 50mb gif coming soon...
