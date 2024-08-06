@@ -27,7 +27,7 @@ You'll need a few things to get this running.
 - [.NET SDK 6.0.417](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 You're on your own finding these.
-- A Jtag/RGH (Modded Xbox 360)
+- Jtag/RGH (Modded Xbox 360)
 - JRPC.xex plugin
 - JRPC.dll
 - xbdm.xex plugin
